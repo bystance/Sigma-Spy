@@ -12,8 +12,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/justasleepycat/Sigma-
 ```
 
 ## Notices 🔔
-- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/depthso/Sigma-Spy/issues) on Github
-- If you gave a suggestion, please post it in the [discussions](https://github.com/depthso/Sigma-Spy/discussions)
+- Sigma Spy will have bugs, please report any bugs by opening an [issue](https://github.com/bystance/Sigma-Spy/issues) on Github
+- If you gave a suggestion, please post it in the [discussions](https://github.com/bystance/Sigma-Spy/discussions)
 - If you have issues with the executor's comm library (get_comm_channel, create_comm_channel), enable `ForceUseCustomComm` in Sigma Spy/Config.lua which is found in your Executor's workspace folder after running
 - AWP and Zenith is recommended to use as of 11/06/25
 
@@ -46,7 +46,7 @@ These are some of the many features Sigma Spy has
       Mulitple Pop-out editors
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/87d6b97f-320a-4bff-ab16-4bab1b397d07">
+      <img src="github.com/user-attachments/assets/87d6b97f-320a-4bff-ab16-4bab1b397d07">
       Executor function patches
     </td>
   </tr>
@@ -100,5 +100,5 @@ Your executor must support these functions in order for it to function:
 
 
 ## Libraries used
-- [ReGui (Depso)](https://github.com/depthso/Dear-ReGui/tree/main) 
-- [Roblox-Parser (Depso)](https://github.com/depthso/Roblox-parser) 
+- [ReGui (Depso)](github.com/bystance/Dear-ReGui/tree/main) 
+- [Roblox-Parser (Depso)](https://github.com/bystance/Roblox-parser) 
