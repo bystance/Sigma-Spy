@@ -70,7 +70,7 @@ type Log = {
 local SetClipboard = setclipboard or toclipboard or set_clipboard
 
 --// Libraries
-local ReGui = loadstring(game:HttpGet('https://github.com/depthso/Dear-ReGui/raw/refs/heads/main/ReGui.lua'), "ReGui")()
+local ReGui = loadstring(game:HttpGet('https://github.com/bystance/Dear-ReGui/raw/refs/heads/main/ReGui.lua'), "ReGui")()
 
 --// Modules
 local Flags
@@ -1365,5 +1365,6 @@ function Ui:CreateLog(Data: Log)
 		self:SetFocusedRemote(Data)
 	end
 end
+
 
 return Ui
